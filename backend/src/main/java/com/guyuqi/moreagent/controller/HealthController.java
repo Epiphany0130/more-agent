@@ -6,6 +6,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 /**
+ * 健康检查接口
  * @author GuYuqi
  * @version 1.0
  */

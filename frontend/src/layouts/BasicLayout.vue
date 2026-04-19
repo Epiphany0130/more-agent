@@ -1,7 +1,7 @@
 <template>
   <a-layout class="basic-layout">
     <!-- 顶部导航栏 -->
-    <GlobalHeader />
+    <GlobalHeader />j
     <!-- 主要内容区域 -->
     <a-layout-content class="main-content">
       <router-view />
